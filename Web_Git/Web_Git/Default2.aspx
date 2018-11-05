@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h1> GIT PROJECT</h1>
+            <h2> New Change </h2>
         </div>
     </form>
 </body>
